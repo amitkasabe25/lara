@@ -1,0 +1,1 @@
+<h1>Go to <a href="/blogs">Blog</a></h1>
